@@ -1,0 +1,24 @@
+body{
+    background-image: url(../images/Grey.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+   
+}
+
+.kuggaOne{
+    top: 100px;
+    position: relative;
+    right: 320px;
+    
+}
+
+.Title{
+    position: relative;
+    right: auto;
+    size-adjust: 200px;
+
+}
+
+
+

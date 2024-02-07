@@ -1,0 +1,8 @@
+body{
+    background-image: url(../images/Kamen\ rider\ Wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    box-sizing: border-box;
+}
+
